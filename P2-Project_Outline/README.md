@@ -7,11 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project will be Teacher’s schedule created by principal(Admin)  that will allow Teacher to track their schedules.
+It will allow teachers to login to check their schedule details.
 ### Features
-Include Features here
+Admin Login: Admin will login and create teachers/Update/Delete.
+
+Teacher login should be able to view the schedules.
+
+Based on calendar Teacher can view his/her schedule.
+
+Schedule will show the allotted timings for specific teacher.
+
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+PHP admin (Database)
+Html /CSS /Bootstrap
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I have to learn Calendar functionality as it is main functionality in our project.
